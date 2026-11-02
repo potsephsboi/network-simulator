@@ -1,3 +1,4 @@
+
 # Network Simulator
 
 A C++/Qt 6 GUI implementation of distributed path vector algorithm on user defined network topology.
@@ -32,3 +33,7 @@ Edge and node failure detection is also handled without recalculating everything
 
 ## Future work
 The goal is to simulate BGP using a simplified model with one router per autonomous system. This includes adding routing policies that influence how routes are selected and advertised between autonomous systems.
+
+
+<img width="1082" height="731" alt="net1" src="https://github.com/user-attachments/assets/88f79ce8-4641-43d0-ae9e-b888ad830e88" />
+<img width="1099" height="733" alt="net2" src="https://github.com/user-attachments/assets/2f10e03b-3183-4b42-b1c2-25112910da1b" />
